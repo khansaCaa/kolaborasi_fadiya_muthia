@@ -1,5 +1,4 @@
 # kolaborasi_fadiya_muthia
-# Latihan Kolaborasi GitHub
 Repository ini digunakan untuk latihan kolaborasi 
 menggunakan Git dan GitHub. 
 Setiap anggota kelompok diminta untuk melakukan 
